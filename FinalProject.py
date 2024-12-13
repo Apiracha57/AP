@@ -9,7 +9,7 @@ Description: This dataset provides a comprehensive record of nuclear explosions 
 
 import pandas as pd
 import streamlit as st
-import matplotlib.pyplot as plt
+st.pyplot(plt)
 import pydeck as pdk
 
 # Theme

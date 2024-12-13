@@ -6,11 +6,11 @@ URL: http://localhost:8501/#nuclear-explosions-data-explorer
 
 Description: This dataset provides a comprehensive record of nuclear explosions conducted worldwide between 1945 and 1998.
 """
-requirements.txt pandas matplotlib streamlit pydeck
+
 import pandas as pd
 import streamlit as st
-import matplotlib.pyplot as plt
-import pydeck as pdk
+# import matplotlib.pyplot as plt
+# import pydeck as pdk
 
 # Theme
 # st.markdown Done with the help of ChatGPT
